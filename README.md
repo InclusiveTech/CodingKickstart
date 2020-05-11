@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Inclusive Tech Coding Kickstart!
 
-You can use the [editor on GitHub](https://github.com/InclusiveTech/coding_kickstart/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you'll find resources to get you started building interesting projects and exploring the great world of coding.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bringing projects to life
 
-### Markdown
+- TODO (a brief guide on how to approach a project)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Learning to make Webpages
 
-```markdown
-Syntax highlighted code block
+Tutorials to take you through the first stages of coding in no time!
 
-# Header 1
-## Header 2
-### Header 3
+- https://htmldog.com/: A great place to start, with friendly tutorials full of examples! We recommend starting with the [HTML Tutorial](https://htmldog.com/guides/html/beginner/gettingstarted/). When you're ready to learn more, head over to the [examples](https://htmldog.com/examples/) section for guides on how to achieve specific effects.
+- https://marksheet.io/html-basics.html: A beautiful but comprehensive tutorial on creating webpages.
+- https://www.w3schools.com/html/: One of the oldest and most well-regarded tutorial websites, it's very comprehensive!
 
-- Bulleted
-- List
+### Sharing your creations!
 
-1. Numbered
-2. List
+- Repl.it
+- jsFiddle
 
-**Bold** and _Italic_ and `Code` text
+### Learning together
 
-[Link](url) and ![Image](src)
-```
+- https://codeclub.org/en": Code Club is an organisation that runs free coding clubs for the 9-13 year old across the UK and globally. Code Club is part of [Raspberry Pi Foundation](https://www.raspberrypi.org/about/), a UK-based charity that works to put the power of computing and digital making into the hands of people all over the world.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### References
 
-### Jekyll Themes
+There is a vast amount of information out there, much more than we can keep in our heads! We use these webpages to learn about specific concepts that we might have forgotten.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InclusiveTech/coding_kickstart/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- https://google.com: Yep, most of the questions we have have already been answered by someone, and Google is a great place to find it!
+- https://www.w3schools.com/default.asp: This is a great hub of knowledge of all things HTML and CSS. A great place to search things in!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
