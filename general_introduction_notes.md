@@ -1,0 +1,13 @@
+## General Introduction
+
+- [5min] What we'll be doing:
+    - Prompt them to start thinking about their subjects. Something that excites them. Give them a few seeding ideas ("Think about your favourite animal", "their favourite thing to do in a weekend"...).
+- [10min] Introduce HTML and CSS: The language of the internet
+    - HTML provides structure.
+    - CSS provides style.
+    - CSS Zen Garden as a demonstration of HTML and CSS.
+- [10min] Hack the news
+- [5min] Kickstart their project.
+    - Think about a topic you really like, and want to share things about.
+    - Think about what you want to share about it! Find your own voice, be creative!
+    - We'll be exploring how you can learn to use HTML and CSS to share your passions with others.

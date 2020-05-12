@@ -4,7 +4,11 @@ Here you'll find resources to get you started building interesting projects and 
 
 ## Bringing projects to life
 
-- TODO (a brief guide on how to approach a project)
+Think of something that is exciting to you, something you want to share things about.
+It can be anything from your favourite sport to your favourite dishes. The cutest animals, or the most mysterious creatures deep in the sea. Books, movies, games...
+
+You have things to share, and you can do that with your very own webpage!
+Here are the things you'll need.
 
 ### Your toolbox
 
