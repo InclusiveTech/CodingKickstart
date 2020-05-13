@@ -12,9 +12,9 @@ Here are the things you'll need.
 
 ### Your toolbox
 
-- **Learning**: [w3schools.com](https://www.w3schools.com/html/default.asp) is a great place to start, with friendly tutorials full of examples! We recommend starting with the [HTML Tutorial](https://www.w3schools.com/html/default.asp). While all of the items in the sidebar are excellent, feel free to focus on the things that you want the most. For instance, you might want to look into [HTML Styles](https://www.w3schools.com/html/html_styles.asp) to give your project a more vibrant look.
+- **Creating**: Use [Repl.it](https://repl.it/) to share your project with your friends. No registration required!
 
-- **Creating**: Use [CodeCollab](https://codecollab.io) to share your project with your friends. No registration required!
+- **Learning**: [w3schools.com](https://www.w3schools.com/html/default.asp) is a great place to start, with friendly tutorials full of examples! We recommend starting with the [HTML Tutorial](https://www.w3schools.com/html/default.asp). While all of the items in the sidebar are excellent, feel free to focus on the things that you want the most. For instance, you might want to look into [HTML Styles](https://www.w3schools.com/html/html_styles.asp) to give your project a more vibrant look.
 
 ## Continuing your journey
 
@@ -32,4 +32,5 @@ There is a vast amount of information out there, much more than we can keep in o
 - [w3schools.com](https://www.w3schools.com/default.asp): This is a great hub of knowledge of all things HTML and CSS. A great place to search things in!
 - [htmldog.com](https://htmldog.com/) is another great place to start learning HTML! We recommend starting with the [HTML Tutorial](https://htmldog.com/guides/html/beginner/gettingstarted/). When you're ready to learn more, head over to the [examples](https://htmldog.com/examples/) section for guides on how to achieve specific effects.
 - [marksheet.io](https://marksheet.io/html-basics.html): Another tutorial on creating webpages, beautiful but comprehensive.
+- [codeacademy.com](https://www.codecademy.com/learn/paths/web-development): Amazing interactive tutorials that will show you everything you need to know in a fun way. **Note** that they do **require registration**, so we may want to ask for help to your teacher setting that up.
 
